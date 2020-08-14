@@ -1,0 +1,15 @@
+{
+  "name": "dynamic-icons",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vercel dev",
+    "deploy": "vercel --prod",
+    "genimg": "node genimg"
+  },
+  "devDependencies": {
+    "vercel": "^19.2.0"
+  },
+  "dependencies": {
+    "sharp": "^0.25.4"
+  }
+}
