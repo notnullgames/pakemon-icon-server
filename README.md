@@ -10,4 +10,5 @@ hex     hex-identifier
 
 It's deployed [here](https://dynamic-icons.vercel.app/api)
 
-Use it for making static maps with image-markers.
+Use it for making static maps with image-markers in maps on [Pakémon](https://github.com/notnullgames//pakemon).
+.
