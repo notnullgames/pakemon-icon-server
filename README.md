@@ -8,7 +8,7 @@ alt     altitude (for scale)
 hex     hex-identifier (color, later)
 ```
 
-It's deployed [here](https://dynamic-icons.vercel.app/api)
+It's deployed [here](https://dynamic-icons.vercel.app/api?alt=30000)
 
 Use it for making static maps with image-markers in maps on [Pakémon](https://github.com/notnullgames//pakemon).
 .
